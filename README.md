@@ -54,7 +54,7 @@ There is no initial keybind for the click gui so in order to bind the clickgui t
 # =============[ Credits ]=============
 
 - [MaxRockatasky#1779 | UserID: 823644978697863170][maxrockataskygithub]
-- [Mr.Gibson#1005 | UserID: 928794991847960657][yaimsputnik5github]
+- [Mr.Gibson#1337 | UserID: 933047726906671284][yaimsputnik5github]
 - [NotRocky#5444 | UserID: 883534831940694016][master7720github]
 - [SaberAspect][saberaspectgithub]
 - [FU3X#7629 | UserID: 546472194105147462][fu3xgithub]
