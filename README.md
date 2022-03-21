@@ -4,7 +4,7 @@
 
 ## This version of HitlerHax was sent to me by my pal NotRockysAly#6534 | UserID: 925299365906632754, so give him all the credit, as I wouldn't be releasing this w/o him. (P.S., he left hs_err_pid & replay_pid) dumps within his upload, such a script kiddie.
 
-##You can check out my original [HitlerHax Leak][hitlerhaxleak1] here.
+## You can check out my original [HitlerHax Leak][hitlerhaxleak1] here.
 
 <center><img src="src/main/resources/assets/minecraft/textures/drippler_wave.png" alt="drippler_wave" width="4000"/>  
 
