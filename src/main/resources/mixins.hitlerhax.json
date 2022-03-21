@@ -1,0 +1,30 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "mod.hitlerhax.mixin",
+  "refmap": "mixins.hitlerhax.refmap.json",
+  "minVersion": "0.7.11",
+  "mixins": [
+    "HtlrMixinAbstractHorse",
+    "HtlrMixinEntity",
+    "HtlrMixinEntityLivingBase",
+    "HtlrMixinEntityLlama",
+    "HtlrMixinEntityPig",
+    "HtlrMixinEntityPlayerSP",
+    "HtlrMixinGuiDisconnected",
+    "HtlrMixinGuiPlayerTabOverlay",
+    "HtlrMixinGuiScreen",
+    "HtlrMixinGuiScreenBook",
+    "HtlrMixinItemRenderer",
+    "HtlrMixinMinecraft",
+    "HtlrMixinNetworkManager",
+    "HtlrMixinRender",
+    "HtlrMixinRenderLivingBase",
+    "HtlrMixinRenderPlayer",
+    "HtlrMixinVisGraph",
+    "HtlrMixinWorld",
+    "HtlrMixinRenderLivingBase",
+    "HtlrMixinItemRenderer",
+    "HtlrMixinEntityPlayer"
+  ]
+}
